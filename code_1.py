@@ -1,0 +1,1 @@
+print("Hello world, this is the part of learning the Git and Github")
